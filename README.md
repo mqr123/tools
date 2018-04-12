@@ -3,3 +3,4 @@
 ## 功能列表
 - Timer:定时器
 - Multi:多图片上传
+- Tab:tab切换
